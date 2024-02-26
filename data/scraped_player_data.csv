@@ -1,0 +1,101 @@
+url;name;full_name;date_of_birth;age;place_of_birth;country_of_birth;positions;current_club;national_team;appearances_current_club;goals_current_club;scraping_timestamp;dead
+https://en.wikipedia.org/wiki/Kostas_Tsimikas;Kostas Tsimikas;Konstantinos Tsimikas;1996-05-12;27;Thessaloniki;Greece;Left-back;Liverpool;Greece;46;0;2024-02-12 11:03:05;False
+https://en.wikipedia.org/wiki/Mohamed_Abou_Gabal;Mohamed Abou Gabal;Mohamed Qotb Abou Gabal Ali;1989-01-29;35;Asyut;Egypt;Goalkeeper;National Bank of Egypt;Egypt;25;0;2024-02-12 11:03:06;False
+https://en.wikipedia.org/wiki/Luis_Miguel_Rodr%C3%ADguez_(footballer);Pulga Rodriguez;Luis Miguel Rodríguez;1985-01-01;39;Simoca, Tucumán;Argentina;Second striker;Central Córdoba SdE;Argentina;16;3;2024-02-12 11:03:06;False
+https://en.wikipedia.org/wiki/Marc_Cucurella;Marc Cucurella;Marc Cucurella Saseta;1998-07-22;25;Alella;Spain;Left-back, left wing-back;Chelsea;Catalonia;33;0;2024-02-12 11:03:06;False
+https://en.wikipedia.org/wiki/Eli_Babalj;Eli Babalj;Eli Babalj;1992-02-21;31;Sarajevo;SFR Yugoslavia;Striker;;Newcastle Jets;;;2024-02-12 11:03:07;False
+https://en.wikipedia.org/wiki/Ramzi_Aya;Ramzi Aya;;1990-02-08;34;Rome;Italy;Defender;Casertana;Italy U20;0;0;2024-02-12 11:03:07;False
+https://en.wikipedia.org/wiki/Luiz_Gustavo;Luiz Gustavo;Luiz Gustavo Dias;1987-07-23;36;Pindamonhangaba;Brazil;Defensive midfielder;São Paulo;Brazil;2;2;2024-02-12 11:03:07;False
+https://en.wikipedia.org/wiki/Hussein_Mohamed_(footballer);Hussein Mohamed;Hussein Abdikarim Mohamed;1997-03-20;26;Mogadishu;Somalia;Winger;JäPS;Somalia;16;5;2024-02-12 11:03:07;False
+https://en.wikipedia.org/wiki/Mois%C3%A9s_Caicedo#:~:text=Mois%C3%A9s%20Isaac%20Caicedo%20Corozo%20(born%2Cand%20the%20Ecuador%20national%20team.;Moisés Caicedo;Moisés Isaac Caicedo Corozo;2001-11-02;22;Santo Domingo;Ecuador;Defensive midfielder;Chelsea;Ecuador;20;0;2024-02-12 11:03:08;False
+https://en.wikipedia.org/wiki/Casemiro;Casemiro;Carlos Henrique Casimiro;1992-02-23;31;São José dos Campos;Brazil;Defensive midfielder;Manchester United;Brazil;39;5;2024-02-12 11:03:08;False
+https://en.wikipedia.org/wiki/Ramzi_Aya;Ramzi Aya;;1990-02-08;34;Rome;Italy;Defender;Casertana;Italy U20;0;0;2024-02-12 11:03:08;False
+https://en.wikipedia.org/wiki/Federico_Fazio;Federico Fazio;Federico Julián Fazio;1987-03-17;36;Buenos Aires;Argentina;Centre-back;Salernitana;Argentina;41;3;2024-02-12 11:03:09;False
+https://en.wikipedia.org/wiki/Jules_Kound%C3%A9;Jules Koundé;Jules Olivier Koundé;1998-11-12;25;Paris;France;Centre-back, right-back;Barcelona;France;50;2;2024-02-12 11:03:09;False
+https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_ter_Stegen;Marc-André ter Stegen;Marc-André ter Stegen;1992-04-30;31;Mönchengladbach;Germany;Goalkeeper;Barcelona;Germany;269;0;2024-02-12 11:03:09;False
+https://en.wikipedia.org/wiki/Cristiano_Ronaldo;Cristiano Ronaldo;Cristiano Ronaldo dos Santos Aveiro;1985-02-05;39;Funchal, Madeira;Portugal;Forward;Al Nassr;Portugal;34;34;2024-02-12 11:03:11;False
+https://en.wikipedia.org/wiki/Koni_De_Winter;Koni De Winter;;2002-06-12;21;Antwerp;Belgium;Centre-back;Genoa;Belgium U21;17;0;2024-02-12 11:03:11;False
+https://en.wikipedia.org/wiki/Jo%C3%A3o_Gomes_(footballer%2C_born_2001);João Gomes;João Victor Gomes da Silva;2001-02-12;22;Rio de Janeiro;Brazil;Central midfielder;Wolverhampton Wanderers;;29;1;2024-02-12 11:03:12;False
+https://en.wikipedia.org/wiki/Patrick_Motsepe;Patrick Motsepe;;1983-03-02;40;;Motswana;central midfielder;;;;;2024-02-12 11:03:12;False
+https://en.wikipedia.org/wiki/Andriy_Lunin;Andriy Lunin;Andriy Oleksiyovych Lunin;1999-02-11;25;Krasnohrad;Ukraine;Goalkeeper;Real Madrid;Ukraine;21;0;2024-02-12 11:03:12;False
+https://en.wikipedia.org/wiki/Cristian_Medina;Cristian Medina;Cristian Nicolás Medina;2002-06-01;21;Moreno;Argentina;Central midfielder;Boca Juniors;Argentina U17;115;6;2024-02-12 11:03:12;False
+https://en.wikipedia.org/wiki/Ahmed_Abdel-Ghani;Ahmed Abdel-Ghani;Ahmed Said Ahmed Hossam Abdel-Ghani;1981-12-01;42;El-Minya;Egypt;Striker;;Egypt;;;2024-02-12 11:03:13;False
+https://en.wikipedia.org/wiki/Zsombor_Tak%C3%A1cs;Zsombor Takács;;1999-02-22;24;Budapest;Hungary;Centre-Back;Pécs;Hungary U-19;21;0;2024-02-12 11:03:13;False
+https://en.wikipedia.org/wiki/Vitaliy_Mykolenko;Vitaliy Mykolenko;Vitaliy Serhiyovych Mykolenko;1999-05-29;24;Cherkasy;Ukraine;Left-back;Everton;Ukraine;65;3;2024-02-12 11:03:13;False
+https://en.wikipedia.org/wiki/Hiroki_Yamada_(footballer);Hiroki Yamada;Hiroki Yamada;1988-12-27;35;Hamamatsu, Shizuoka;Japan;Attacking midfielder, winger;Júbilo Iwata;Japan;145;18;2024-02-12 11:03:13;False
+https://en.wikipedia.org/wiki/Ederson_(footballer%2C_born_1993);Ederson;Ederson Santana de Moraes;1993-08-17;30;Osasco;Brazil;Goalkeeper;Manchester City;Brazil;238;0;2024-02-12 11:03:14;False
+https://en.wikipedia.org/wiki/Damien_Cahalane;Damien Cahalane;;;<class 'int'>;;;Full-back;;;;;2024-02-12 11:03:14;False
+https://en.wikipedia.org/wiki/Ismail_Al-Zaabi;Ismail Al-Zaabi;Ismail Omar Sultan Al-Zaabi;2001-07-14;22;;Emirates;Midfielder;Al Bataeh;U20 UAE;0;0;2024-02-12 11:03:14;False
+https://en.wikipedia.org/wiki/Vitor_Hugo_(footballer%2C_born_1991);Vitor Hugo;Vitor Hugo Franchescoli de Souza;1991-05-20;32;Guaraci;Brazil;Centre-back;Panathinaikos;;0;0;2024-02-12 11:03:15;False
+https://en.wikipedia.org/wiki/Maurits_Kj%C3%A6rgaard;Maurits Kjærgaard;Maurits Kjaergaard;2003-06-26;20;Herlev;Denmark;Midfielder;Red Bull Salzburg;Denmark U21;55;5;2024-02-12 11:03:15;False
+https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior;Vinícius Júnior;Vinícius José Paixão de Oliveira Júnior;2000-07-12;23;São Gonçalo;Brazil;Winger;Real Madrid;Brazil;165;41;2024-02-12 11:03:15;False
+https://en.wikipedia.org/wiki/Dion_Drena_Beljo;Dion Drena Beljo;Dion Drena Beljo;2002-03-01;21;Zagreb;Croatia;Striker;Augsburg;Croatia;32;5;2024-02-12 11:03:16;False
+https://en.wikipedia.org/wiki/Junior_Sornoza;Junior Sornoza;Junior Nazareno Sornoza Moreira;1994-01-28;30;Portoviejo;Ecuador;Attacking midfielder;Independiente del Valle;Ecuador;51;10;2024-02-12 11:03:16;False
+https://en.wikipedia.org/wiki/Maarten_Vandevoordt;Maarten Vandevoordt;;2002-02-26;21;Sint-Truiden;Belgium;Goalkeeper;Genk;Belgium U21;108;0;2024-02-12 11:03:16;False
+https://en.wikipedia.org/wiki/Jolie_Tuzolana;Jolie Tuzolana;Jolie Tuzolana Diasilua;1986-04-06;37;;;Forward;;DR Congo;;;2024-02-12 11:03:16;False
+https://en.wikipedia.org/wiki/List_of_foreign_Russian_Premier_League_players;List of foreign Russian Premier League players;;2024-02-11;0;;;;;;;;2024-02-12 11:03:17;False
+https://en.wikipedia.org/wiki/Andrea_Sta%C5%A1kov%C3%A1;Andrea Stašková;;2000-05-12;23;Znojmo;Czech Republic;Striker;AC Milan;Czech Republic;0;0;2024-02-12 11:03:18;False
+https://en.wikipedia.org/wiki/Dejan_Ljubi%C4%8Di%C4%87;Dejan Ljubičić;Dejan Ljubičić;1997-10-08;26;Vienna;Austria;Midfielder;1. FC Köln;Austria;76;8;2024-02-12 11:03:19;False
+https://en.wikipedia.org/wiki/Isaka_Cernak;Isaka Cernak;Isaka Aongor Čerňák-Okanya;1989-04-09;34;Galiwin'ku, Northern Territory;Australia;Attacking midfielder;Olympic FC;Australia U-23;24;1;2024-02-12 11:03:19;False
+https://en.wikipedia.org/wiki/Achraf_Hakimi;Achraf Hakimi;Achraf Hakimi Mouh;1998-11-04;25;Madrid;Spain;Right-back, right winger;Paris Saint-Germain;Morocco;75;12;2024-02-12 11:03:19;False
+https://en.wikipedia.org/wiki/Valent%C3%ADn_Barco;Valentín Barco;Valentín Barco;2004-07-23;19;Veinticinco de Mayo, Buenos Aires;Argentina;Left-back, wide midfielder;Brighton & Hove Albion;Argentina U23;0;0;2024-02-12 11:03:19;False
+https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez;Emiliano Martínez;Damián Emiliano Martínez Romero;1992-09-02;31;Mar del Plata;Argentina;Goalkeeper;Aston Villa;Argentina;133;0;2024-02-12 11:03:20;False
+https://en.wikipedia.org/wiki/Ben_Brereton_D%C3%ADaz;Ben Brereton Díaz;Benjamin Anthony Brereton Díaz;1999-04-18;24;Stoke-on-Trent;England;Forward, winger;Sheffield United;Chile;3;2;2024-02-12 11:03:20;False
+https://en.wikipedia.org/wiki/Ivan_Kucherenko_(footballer);Ivan Kucherenko;Ivan Vasilyevych Kucherenko;1987-06-01;36;Ukrainian SSR;Soviet Union;Defender;FC Ukraine United;;;;2024-02-12 11:03:20;False
+https://en.wikipedia.org/wiki/Thiago_Almada;Thiago Almada;Thiago Ezequiel Almada;2001-04-26;22;Ciudadela, Buenos Aires;Argentina;Attacking midfielder, winger;Atlanta United;Argentina;60;17;2024-02-12 11:03:21;False
+https://en.wikipedia.org/wiki/Sulaiman_Said_Al-Shukaili;Sulaiman Said Al-Shukaili;Sulaiman Said Saif Al-Shukaili;1984-10-29;39;;Oman;Defender;;Oman;;;2024-02-12 11:03:21;False
+https://en.wikipedia.org/wiki/Kelechi_Iheanacho;Kelechi Iheanacho;Kelechi Promise Iheanacho;1996-10-03;27;Owerri;Nigeria;Striker;Leicester City;Nigeria;166;35;2024-02-12 11:03:22;False
+https://en.wikipedia.org/wiki/Raphinha;Raphinha;Raphael Dias Belloli;1996-12-14;27;Porto Alegre;Brazil;Winger;Barcelona;Brazil;52;10;2024-02-12 11:03:22;False
+https://en.wikipedia.org/wiki/Nilufar_Kudratova;Nilufar Kudratova;Nilufar Gulmurod qizi Kudratova;1997-06-05;26;Qarshi;Uzbekistan;Forward;;Uzbekistan;;;2024-02-12 11:03:22;False
+https://en.wikipedia.org/wiki/Abde_Ezzalzouli;Abde Ezzalzouli;Abdessamad Ezzalzouli;2001-12-17;22;Beni Mellal;Morocco;Winger;Betis;Morocco;14;1;2024-02-12 11:03:22;False
+https://en.wikipedia.org/wiki/Cenk_Tosun;Cenk Tosun;Cenk Tosun;1991-06-07;32;Wetzlar;Germany;Striker;Beşiktaş;Turkey;53;19;2024-02-12 11:03:23;False
+https://en.wikipedia.org/wiki/Aur%C3%A9lien_Tchouam%C3%A9ni;Aurélien Tchouaméni;Aurélien Djani Tchouaméni;2000-01-27;24;Rouen;France;Defensive midfielder;Real Madrid;France;51;2;2024-02-12 11:03:23;False
+https://en.wikipedia.org/wiki/Nicolas_%C5%A0ikula;Nicolas Šikula;Nicolas Šikula;2003-05-15;20;;Slovakia;Right-back;Pohronie;Slovakia U20;15;2;2024-02-12 11:03:23;False
+https://en.wikipedia.org/wiki/Jean_St%C3%A9phane_Yao_Yao;Jean Stéphane Yao Yao;Jean-Stéphane Yao Yao;1990-10-06;33;Bouaké;Ivory Coast;Central midfielder;CSS Richard-Toll;;1;0;2024-02-12 11:03:23;False
+https://en.wikipedia.org/wiki/Alejandro_D%C3%ADaz_(footballer);Alejandro Díaz;Alejandro Díaz Liceága;1996-01-27;28;Mexico City;Mexico;Forward;Vancouver FC;Mexico U23;14;2;2024-02-12 11:03:24;False
+https://en.wikipedia.org/wiki/Caoimh%C3%ADn_Kelleher;Caoimhín Kelleher;Caoimhín Odhrán Kelleher;1998-11-23;25;Cork;Ireland;Goalkeeper;Liverpool;Republic of Ireland;8;0;2024-02-12 11:03:24;False
+https://en.wikipedia.org/wiki/Mohammad_Javad_Mohammadi;Mohammad Javad Mohammadi;Mohammad Javad Mohammadi Marzroudi;1996-07-20;27;Tehran;Iran;Midfielder;Zob Ahan;;9;4;2024-02-12 11:03:24;False
+https://en.wikipedia.org/wiki/Abderraouf_Othmani;Abderraouf Othmani;Abderraouf Othmani;2001-06-14;22;Hammamet;Algeria;Striker;CA Bizertin;;0;0;2024-02-12 11:03:24;False
+https://en.wikipedia.org/wiki/Ali_Al-Zaqaan;Ali Al-Zaqaan;Ali Ahmed Al-Zaqaan;1991-11-01;32;;Saudi Arabia;Winger;Al-Riyadh;Saudi Arabia;6;1;2024-02-12 11:03:25;False
+https://en.wikipedia.org/wiki/Ilaix_Moriba;Ilaix Moriba;Moriba Kourouma Kourouma;2003-01-19;21;Conakry;Guinea;Central midfielder;Getafe;Guinea;0;0;2024-02-12 11:03:25;False
+https://en.wikipedia.org/wiki/Hannah_Wilkinson;Hannah Wilkinson;Hannah Lilian Wilkinson;1992-05-28;31;Whangarei;New Zealand;Striker;Melbourne City;New Zealand;37;23;2024-02-12 11:03:25;False
+https://en.wikipedia.org/wiki/Diego_Polenta;Diego Polenta;Diego Fabián Polenta Musetti;1992-02-06;32;Montevideo;Uruguay;Centre-back;Nacional;Uruguay Olympic;28;2;2024-02-12 11:03:26;False
+https://en.wikipedia.org/wiki/Luo_Zuqing;Luo Zuqing;;1993-04-27;30;Meizhou, Guangdong;China;Goalkeeper/Striker;Shenzhen Pengcheng;;30;0;2024-02-12 11:03:26;False
+https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9;Kylian Mbappé;Kylian Mbappé Lottin;1998-12-20;25;Paris;France;Forward;Paris Saint-Germain;France;168;155;2024-02-12 11:03:27;False
+https://en.wikipedia.org/wiki/Darryl_Roberts;Darryl Roberts;Darryl Roberts;1983-09-26;40;Saint Joseph;Trinidad and Tobago;Striker;HPC;Trinidad and Tobago;27;6;2024-02-12 11:03:27;False
+https://en.wikipedia.org/wiki/Shunnosuke_Matsuki;Shunnosuke Matsuki;;1996-10-24;27;Kanagawa;Japan;Midfielder;Suzuka Point Getters;;0;0;2024-02-12 11:03:28;False
+https://en.wikipedia.org/wiki/Jung_Hoon;Jung Hoon;;1985-08-31;38;;South Korea;Defensive Midfielder / Centre Back;;;;;2024-02-12 11:03:28;False
+https://en.wikipedia.org/wiki/Hirving_Lozano;Hirving Lozano;Hirving Rodrigo Lozano Bahena;1995-07-30;28;Mexico City;Mexico;Winger;PSV;Mexico;13;5;2024-02-12 11:03:28;False
+https://en.wikipedia.org/wiki/Jurri%C3%ABn_Timber;Jurriën Timber;Jurriën David Norman Timber;2001-06-17;22;Utrecht;Netherlands;Centre-back, full-back;Arsenal;Netherlands;1;0;2024-02-12 11:03:29;False
+https://en.wikipedia.org/wiki/Badr_Benoun;Badr Benoun;Badr Benoun;1993-09-30;30;Casablanca;Morocco;Centre-back;Qatar SC;Morocco;20;5;2024-02-12 11:03:29;False
+https://en.wikipedia.org/wiki/Sora_Igawa;Sora Igawa;Sora Igawa;2000-01-15;24;Katō, Hokkaido;Japan;Defensive midfielder, centre back;Fagiano Okayama;Japan U18;0;0;2024-02-12 11:03:29;False
+"https://en.wikipedia.org/wiki/Erik_Lamela#:~:text=Erik%20Manuel%20Lamela%20Cordero%20(born%2Cand%20the%20Argentina%20national%20team.&amp;text=Lamela%20began%20his%20career%20at%2Can%20initial%20%E2%82%AC12%20million.";Erik Lamela;Erik Manuel Lamela Cordero;1992-03-04;31;Buenos Aires;Argentina;Right winger, attacking midfielder;Sevilla;Argentina;60;13;2024-02-12 11:03:29;False
+https://en.wikipedia.org/wiki/Park_Sun-yong;Park Sun-yong;;1989-03-12;34;;South Korea;Midfielder;Pohang Steelers;;53;0;2024-02-12 11:03:30;False
+https://en.wikipedia.org/wiki/Hannibal_Mejbri;Hannibal Mejbri;Hannibal Mejbri;2003-01-21;21;Ivry-sur-Seine;France;Midfielder;Sevilla;Tunisia;1;0;2024-02-12 11:03:30;False
+https://en.wikipedia.org/wiki/Jackson_Porozo;Jackson Porozo;Jackson Gabriel Porozo Vernaza;2000-08-04;23;San Lorenzo;Ecuador;Centre-back;Kasımpaşa;Ecuador;0;0;2024-02-12 11:03:30;False
+https://en.wikipedia.org/wiki/Erling_Haaland;Erling Haaland;Erling Braut Haaland;2000-07-21;23;Leeds, West Yorkshire;England;Striker;Manchester City;Norway;53;52;2024-02-12 11:03:31;False
+https://en.wikipedia.org/wiki/Ahmed_Salem;Ahmed Salem;Ahmed Mohamed Salem;1898-12-25;125;Damietta;Egypt;;;Egypt;;;2024-02-12 11:03:31;True
+https://en.wikipedia.org/wiki/Youcef_Bela%C3%AFli;Youcef Belaïli;Mohamed Youcef Belaïli;1992-03-14;31;Oran;Algeria;Left winger;MC Alger;Algeria;11;10;2024-02-12 11:03:32;False
+https://en.wikipedia.org/wiki/Ahmed_Nabil_Koka;Ahmed Nabil Koka;Ahmed Nabil Ashour Abdelaal;2001-07-04;22;;;Midfielder;Al Ahly;Egypt U23;16;0;2024-02-12 11:03:32;False
+https://en.wikipedia.org/wiki/Fabi%C3%A1n_Estoyanoff;Fabián Estoyanoff;Fabián Larry Estoyanoff Poggio;1982-09-27;41;Montevideo;Uruguay;Winger;Fénix;Uruguay;55;6;2024-02-12 11:03:32;False
+https://en.wikipedia.org/wiki/Nora_Heroum;Nora Heroum;;1994-07-20;29;Helsinki;Finland;Defender / Midfielder;Parma;Finland;25;1;2024-02-12 11:03:32;False
+https://en.wikipedia.org/wiki/Kyogo_Furuhashi;Kyogo Furuhashi;;1995-01-20;29;Ikoma, Nara;Japan;Forward;Celtic;Japan;81;47;2024-02-12 11:03:33;False
+https://en.wikipedia.org/wiki/Marcelo_(footballer%2C_born_1988);Marcelo;Marcelo Vieira da Silva Júnior;1988-05-12;35;Rio de Janeiro;Brazil;Left-back;Fluminense;Brazil;19;1;2024-02-12 11:03:33;False
+https://en.wikipedia.org/wiki/Felix_Afena-Gyan;Felix Afena-Gyan;Felix Afena Ohene-Gyan;2003-01-19;21;Sunyani;Ghana;Forward;Cremonese;Ghana;31;3;2024-02-12 11:03:33;False
+https://en.wikipedia.org/wiki/Eric_Bailly;Eric Bailly;Eric Bertrand Bailly;1994-04-12;29;Bingerville;Ivory Coast;Centre-back;Villarreal;Ivory Coast;4;0;2024-02-12 11:03:34;False
+https://en.wikipedia.org/wiki/F%C3%A1bio_Carvalho_(footballer%2C_born_2002);Fábio Carvalho;Fábio Leandro Freitas Gouveia Carvalho;2002-08-30;21;Torres Vedras;Portugal;Winger, attacking midfielder;Hull City;Portugal U21;4;1;2024-02-12 11:03:34;False
+https://en.wikipedia.org/wiki/Norbert_K%C3%B6nyves;Norbert Könyves;;1989-06-10;34;Senta, SR Serbia;SFR Yugoslavia;Right winger, Forward;Paks;Hungary;13;6;2024-02-12 11:03:34;False
+https://en.wikipedia.org/wiki/Mamadou_Sylla_(footballer%2C_born_1994);Mamadou Sylla;Mamadou Sylla Diallo;1994-03-20;29;Kédougou;Senegal;Forward;Valladolid;;10;4;2024-02-12 11:03:34;False
+https://en.wikipedia.org/wiki/Vladyslav_Dubinchak;Vladyslav Dubinchak;Vladyslav Yuriyovych Dubinchak;1998-07-01;25;Tomashpil;Ukraine;Left-back;Dynamo Kyiv;Ukraine U21;23;0;2024-02-12 11:03:35;False
+https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez;Luis Suárez;Luis Alberto Suárez Díaz;1987-01-24;37;Salto;Uruguay;Striker;Inter Miami;Uruguay;0;0;2024-02-12 11:03:36;False
+https://en.wikipedia.org/wiki/Samuel_Mbapp%C3%A9_L%C3%A9pp%C3%A9;Samuel Mbappé Léppé;Samuel Mbappé Léppé;1936-02-28;87;Douala;Cameroon;Midfielder;;Cameroon;;;2024-02-12 11:03:36;True
+https://en.wikipedia.org/wiki/Hwang_Ui-jo;Hwang Ui-jo;Hwang Ui-jo;1992-08-28;31;Seongnam;South Korea;Forward;Alanyaspor;South Korea;0;0;2024-02-12 11:03:36;False
+https://en.wikipedia.org/wiki/Ahmed_Sayed_Gharib;Ahmed Sayed Gharib;;2002-02-23;21;Cairo;Egypt;Forward;ZED;;0;0;2024-02-12 11:03:36;False
+https://en.wikipedia.org/wiki/Wahid_Faghir;Wahid Faghir;Wahidullah Faghir;2003-07-29;20;Vejle;Denmark;Forward;SV Elversberg;Denmark U21;7;3;2024-02-12 11:03:37;False
+https://en.wikipedia.org/wiki/Sadio_Man%C3%A9;Sadio Mané;Sadio Mané;1992-04-10;31;Bambali;Senegal;Winger, forward;Al Nassr;Senegal;18;8;2024-02-12 11:03:37;False
+https://en.wikipedia.org/wiki/Sun_Jie_(footballer);Sun Jie;;1991-02-09;33;Dalian, Liaoning;China;Defender;Changchun Yatai;China U20;204;8;2024-02-12 11:03:37;False
+https://en.wikipedia.org/wiki/Marcos_J%C3%BAnior;Marcos Júnior;Marcos Júnior Lima dos Santos;1993-01-19;31;Gama, Federal District;Brazil;Attacking midfielder, winger;Sanfrecce Hiroshima;Brazil U20;7;1;2024-02-12 11:03:38;False
+https://en.wikipedia.org/wiki/S%C3%A9kou_Mara;Sékou Mara;;2002-07-30;21;Paris;France;Forward;Southampton;France U21;40;4;2024-02-12 11:03:38;False
+https://en.wikipedia.org/wiki/Pierre-Emerick_Aubameyang;Pierre-Emerick Aubameyang;Pierre-Emerick Emiliano François Aubameyang;1989-06-18;34;Laval;France;Striker;Marseille;Gabon;21;6;2024-02-12 11:03:38;False
+https://en.wikipedia.org/wiki/Amer_Gojak;Amer Gojak;Amer Gojak;1997-02-13;26;Sarajevo;Bosnia and Herzegovina;Attacking midfielder;Ferencváros;Bosnia and Herzegovina;25;2;2024-02-12 11:03:39;False
+https://en.wikipedia.org/wiki/Mohamed_Salah;Mohamed Salah;Mohamed Salah Hamed Mahrous Ghaly;1992-06-15;31;Nagrig, Basyoun;Egypt;Right winger, forward;Liverpool;Egypt;238;151;2024-02-12 11:03:40;False
